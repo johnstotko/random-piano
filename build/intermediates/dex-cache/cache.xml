@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_561d89c3acdee34893cb824d6ff288caa9a73ae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_2082f473df376e59d040abdbfdd623861ea0c700\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_d51d71664c9e614e1d9fa63cebccdda2fa60e779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_652818f9dd8283537069eafb89cef9fadf2f6e2c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_6666f12126b72b81b8ade5cffa34e1b4179b187e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_d42ac4c924f4d7fae6c774c6815cdb57827047b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_8a8dad69f09fa405721e07b80adf9423e5e1db1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\support-annotations-24.2.1_35e77a3ac5df6593ae2c3f02875e3e388dd08c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_6859a22041d529428e5abeb60543004d25a78285.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7faf4bc92be984a867011585f0c09c86418a5430\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2d6000c9da77546f35cde6406c1dea17d76c2426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_72191b508dc81d640346ed2b7e1f816661eb806f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_4d023105025788a48195122de05550631304a6a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_11eeac2959e21881015d18e630d85762fa1bc234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7112b4318d3325e513caa39889a98fa769c65aa5">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0a9f8e95ff803be4618c9b448be862c8e6122c87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_c3c8c49155c79df2bf3def5edfc2e315d03e3b8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_6cdb48b4ce411cb7103696c852eafe328ffc084d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c2c884dd3857aa91929bfc9cd535ecce1b3d934e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_f094a021fc225571136afab55330163d725b83ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e35d660e4fd592a58672d48d46c603ab59aa717c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_3ce59b3a7e5551de43355dc6ef9fcf44bdc51245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_58f1a35dd8e1ff985f8028ee9f6341b82426ae5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_f922480e8a3d02a13909f32e0432fe0428c18ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_9427efe9da672a0a9259947931f8f5e21d69cb7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_2082f473df376e59d040abdbfdd623861ea0c700.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_d51d71664c9e614e1d9fa63cebccdda2fa60e779\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_6666f12126b72b81b8ade5cffa34e1b4179b187e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa143978beb8d22d466c2a182e8dabc260dd3e62">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_50a5e41abf663766145f4e5b4e1c4b69b397ff55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c0193f599062b6247d0cce9d2b23d2b40349655">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_63f8573b3d0e5d556faee60029593992681f448c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_652818f9dd8283537069eafb89cef9fadf2f6e2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8a8dad69f09fa405721e07b80adf9423e5e1db1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4d023105025788a48195122de05550631304a6a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_d42ac4c924f4d7fae6c774c6815cdb57827047b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_7faf4bc92be984a867011585f0c09c86418a5430.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_35e77a3ac5df6593ae2c3f02875e3e388dd08c59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_6859a22041d529428e5abeb60543004d25a78285\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_6b9c46c61966031982792bda328f8a4b59c9543c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_2d6000c9da77546f35cde6406c1dea17d76c2426.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a744270339133e51a504cd21ffdc801c72b674c">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_12636e7e34158a277f5bd5d0b0c2a9f9040dbbc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_fbf32b05a748e874ae8a23b00bdc66226707e665\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_c3c8c49155c79df2bf3def5edfc2e315d03e3b8d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_044eccf2ae733b4e2a77b20548902e093d8426d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_f094a021fc225571136afab55330163d725b83ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_a38459eec088c193d2558b64ee3f7c06348f07fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_3ce59b3a7e5551de43355dc6ef9fcf44bdc51245.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_65d5c813c5333a99463bab7ddc804620b91bdbf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGeneratorV2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f2518a2833d1d886def52a0ee49ebed500bc1a24\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\John\AndroidStudioProjects\MusicGenerator\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_c2c884dd3857aa91929bfc9cd535ecce1b3d934e.jar" />
+    </item>
+
+</items>
